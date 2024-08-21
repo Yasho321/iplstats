@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iplstats/static/css/main.c628cc1e.css",
+    "main.js": "/iplstats/static/js/main.6d914536.js",
+    "static/js/453.2f5aeb92.chunk.js": "/iplstats/static/js/453.2f5aeb92.chunk.js",
+    "index.html": "/iplstats/index.html",
+    "main.c628cc1e.css.map": "/iplstats/static/css/main.c628cc1e.css.map",
+    "main.6d914536.js.map": "/iplstats/static/js/main.6d914536.js.map",
+    "453.2f5aeb92.chunk.js.map": "/iplstats/static/js/453.2f5aeb92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c628cc1e.css",
+    "static/js/main.6d914536.js"
+  ]
+}
