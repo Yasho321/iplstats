@@ -1,0 +1,64 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+span{
+  font-weight: 100;
+}
+td{
+  text-align: center !important;
+}
+.stats-table {
+  width: 80%;
+  margin:auto auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.stats-table th, .stats-table td {
+  padding: 12px 15px;
+  border: 0px solid white;
+  text-align: left;
+  border-bottom: 1px solid rgb(180, 179, 179) !important;
+}
+
+.stats-table th {
+  background-color: #1e263d;
+  color: white;
+}
+
+
+.image{
+  height: 90px;
+}
+.flex{
+  display: flex;
+}
+.align{
+  align-items: center;
+}
+.bold{
+  font-weight: 600;
+}
+td:nth-child(3) {
+    background-color: rgb(205, 204, 204);
+}
+.bgr{
+  background-color: #f4f4f4;
+}
+.light{
+  font-weight: 100;
+}
+.plnm{
+  margin-block: 2;
+}
+.teamnm{
+  font-weight: 100;
+}
